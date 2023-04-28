@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "ParkingFinder",
-    "slug": "ParkingFinder"
+    "slug": "ParkingFinder",
+    "extra": {
+      "eas": {
+        "projectId": "176b93cb-6871-40da-9616-1bea7bc0e1ec"
+      }
+    },
+    "android": {
+      "package": "com.mayank_yadav.ParkingFinder"
+    }
   }
 }
